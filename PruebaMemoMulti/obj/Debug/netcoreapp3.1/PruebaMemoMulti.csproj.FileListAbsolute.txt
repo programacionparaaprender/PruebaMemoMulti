@@ -1,0 +1,17 @@
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\bin\Debug\netcoreapp3.1\PruebaMemoMulti.exe
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\bin\Debug\netcoreapp3.1\PruebaMemoMulti.deps.json
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\bin\Debug\netcoreapp3.1\PruebaMemoMulti.runtimeconfig.json
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\bin\Debug\netcoreapp3.1\PruebaMemoMulti.runtimeconfig.dev.json
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\bin\Debug\netcoreapp3.1\PruebaMemoMulti.dll
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\bin\Debug\netcoreapp3.1\PruebaMemoMulti.pdb
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\obj\Debug\netcoreapp3.1\PruebaMemoMulti.csproj.AssemblyReference.cache
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\obj\Debug\netcoreapp3.1\PruebaMemoMulti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\obj\Debug\netcoreapp3.1\PruebaMemoMulti.AssemblyInfoInputs.cache
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\obj\Debug\netcoreapp3.1\PruebaMemoMulti.AssemblyInfo.cs
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\obj\Debug\netcoreapp3.1\PruebaMemoMulti.csproj.CoreCompileInputs.cache
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\obj\Debug\netcoreapp3.1\PruebaMemoMulti.dll
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\obj\Debug\netcoreapp3.1\PruebaMemoMulti.pdb
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\obj\Debug\netcoreapp3.1\PruebaMemoMulti.genruntimeconfig.cache
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Bus209\Documents\htdocs\PruebaMemoMulti\PruebaMemoMulti\obj\Debug\netcoreapp3.1\PruebaMemoMulti.csproj.CopyComplete
